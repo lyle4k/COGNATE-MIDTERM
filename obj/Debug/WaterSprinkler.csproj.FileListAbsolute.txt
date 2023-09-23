@@ -1,0 +1,9 @@
+C:\Users\student.CDM\source\repos\WaterSprinkler\bin\Debug\WaterSprinkler.exe.config
+C:\Users\student.CDM\source\repos\WaterSprinkler\bin\Debug\WaterSprinkler.exe
+C:\Users\student.CDM\source\repos\WaterSprinkler\bin\Debug\WaterSprinkler.pdb
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.csprojAssemblyReference.cache
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.Form1.resources
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.Properties.Resources.resources
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.csproj.GenerateResource.cache
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.exe
+C:\Users\student.CDM\source\repos\WaterSprinkler\obj\Debug\WaterSprinkler.pdb
